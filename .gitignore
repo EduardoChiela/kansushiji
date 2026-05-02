@@ -1,0 +1,5 @@
+meu_ambiente_tf/
+data/
+models/
+.mypy_cache/
+__pycache__/
